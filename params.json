@@ -1,0 +1,6 @@
+{
+  "name": "Innovathon2016",
+  "tagline": "MVP4Log",
+  "body": "### Welcome to G OSS Pioneers home.\r\n\r\n### MVP4Log\r\n_POC_ per **Innovathon2016**!\r\n\r\n### Log digger\r\nConsole per l'estrazione di log in dati strutturati.\r\nSi compone di un server HTTP con API per configurare metriche di analisi dei log e per esportare i costrutti risultanti.\r\nLa visualizzazione é una pagina (AngularJS).\r\nIl server dialoga con un nodo elasticsearch. Gli indici indirizzano i files di log raccolti sul file system.\r\n\r\n## Scopo del progetto\r\n**Log digger** é una _POC_ per la presentazione di un nuovo processo di sviluppo in Azienda.\r\n\r\n### Authors and Contributors\r\nIn 2016, Giulio (@AbyssoGVR), Daniele (@dasi4gvr), and Alessandro (@ale4gvr).\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
